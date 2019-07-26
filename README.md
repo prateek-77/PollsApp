@@ -11,3 +11,15 @@ We are planning to build a django based web app that will be used for securing a
 
 **Solution:** Our app will help voters to upload their ID info to the azure blockchain. All of the data will be encrypted & stored in multiple systems (Thanks to BlockChain tech.) & this will make it impossible to alter voter records.
 
+* **Idea 2**
+
+**Problem:** Fake News and Information casts a big impact on the voters. It leads to formation of a false opinion among the voters. Hence, probability of a non-worthy candidate getting elected becomes high.
+
+**Solution:** All the campaigners can register themselves on app, which would be connected to Azure Blockchain. Since blockchain is open and supports RTI, people can view the campaigning statements and verify whether it is false or not via the blockchain technology.
+
+* **Idea 3**
+
+**Problem:** Hacked Polling Machines. Hackers can target the software used by these machines, and then manipulate the vote count.
+
+**Solution:** After securing votes,the votes would also be fed to blockchain. Our app would generate a QR code for the blockchain vote node. This node is impossible to alter. Thus, after catsing votes voters can keep track of their votes via the QR code.
+
