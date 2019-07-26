@@ -6,5 +6,6 @@ We are planning to build a django based web app that will be used for securing a
 
 ## Working Explained:
 **1) Problem:** Prior to the election process, hackers breach into the voter database and alter the records. So, during the     elections voters can't ID themselves and cast a poll. Hackers then use this altered ID to cast false votes.
+
    **Solution:** Our app will help voters to upload their ID info to the azure blockchain. All of the data will be encrypted & stored in multiple systems (Thanks to BlockChain tech.) & this will make it impossible to alter voter records.
 
