@@ -24,7 +24,7 @@ We will be using the following dictionary models :
 
 * Our app will allow campaigners to register themselves, which would be connected to Azure Blockchain. Since blockchain is open and supports RTI (due to distributed version system), people can view the campaigning statements and verify whether it is false or not via the blockchain technology. Moreover, Blockchain verified campaigners can be given a special tag, which will allow voters to have a good opinion.
 
-* After securing votes to the EVM, the votes will be constantly fed to blockchain nodes (which are impossible to alter). EC authorities can keep track of these blocckchain nodes.
+* After securing votes to the EVM, the votes will be constantly fed to blockchain (which is impossible to alter). EC authorities will be nodes of this blockchain. Whenever allegations are raised, they can crosscheck via blockchain.
 
 ## Dataset Used:
 We will be using the **Open Government Data Platform India' dataset**. (Digital India initiative)
