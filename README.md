@@ -23,10 +23,10 @@ We are planning to build a django based web app that will be used for securing a
 
    **Solution:** After securing votes,the votes would also be fed to blockchain. Our app would generate a QR code for the blockchain vote fed to a node. This node is impossible to alter. Thus, after casting votes, voters can keep track of their votes via the QR code generated.
 
-##Dataset Used:
-We will be using the **Open Government Data Platform India' dataset. (Digital India initiative)
+## Dataset Used:
+We will be using the **Open Government Data Platform India' dataset**. (Digital India initiative)
 
-##Technologies & Frameworks:
+## Technologies & Frameworks:
 * Django 
 * Python
 * CSS
